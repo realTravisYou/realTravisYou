@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @realTravisYou
+- 👋 Hi, I’m @TravisYou
 - 👀 I’m interested in object detection, keypoint detection and Semantic Segmentation.
 - 🌱 I’m currently learning openCV and c++.
 - 💞️ I’m looking to collaborate on computer vision.
